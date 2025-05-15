@@ -1,8 +1,7 @@
-# Hello!!
+# 🎉 Welcome to the IBD Barcelona lab GitHub!
 
+This is where we share code and tools developed across our research projects — from data analysis pipelines to figure generation scripts.
 
-Here we share our code to analyze single-cell experiments and publications (mostly R and some python).
+Most of our work is focused on high-dimensional biological data, with a strong focus on FAIR principles. 
 
-We hope to host here too shiny web code to explore our own results.
-
-Datasets are not shared here, check publications or reach out to us.
+📁 Note: Datasets are not hosted here. Please refer to the relevant publication or reach out to us for access.
